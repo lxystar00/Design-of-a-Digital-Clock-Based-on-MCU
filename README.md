@@ -31,7 +31,7 @@ This project, developed in my sophomore year, is based on the TI LaunchPad exper
 
 ## Result
 The detailed result can download the Result_video.mp4
+
+
 ![R1 Image](R1.png)
-
-
 ![R2 Image](R2.png)
